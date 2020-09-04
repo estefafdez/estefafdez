@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on YouCanBook.Me
-- 🌱 I’m currently learning TypeScript
+- 🔭 I’m currently working at YouCanBook.Me as a QA Automation Engineer. 
+- 🌱 I’m currently learning TypeScript.
 - 👯 I’m looking to collaborate on Open Source tools such as Selenium, Appium or Cypress. 
 - 🤔 I’m looking for help with any problems with Automation Testing. 
 - 💬 Ask me about QA and Automation Testing.

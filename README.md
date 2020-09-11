@@ -7,6 +7,10 @@
 - 💬 Ask me about QA and Automation Testing.
 - ⚡ Visit my website: [https://estefafdez.github.io/](https://estefafdez.github.io/)
 
+![GitHub followers](https://img.shields.io/github/followers/estefafdez?style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/estefafdez?color=green&logo=twitter&style=for-the-badge)
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=for-the-badge)](https://www.linkedin.com/in/estefafdez)
+
 ## ☎️ Contact Me:
 <p align="center">
 <a href = "mailto:estefafdez@gmail.com"><img src='https://img.icons8.com/color/48/000000/gmail.png' alt='gmail' height='40'></a>

@@ -9,14 +9,16 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/estefafdez?style=for-the-badge)
 ![Twitter Follow](https://img.shields.io/twitter/follow/estefafdez?color=green&logo=twitter&style=for-the-badge)
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=for-the-badge)](https://www.linkedin.com/in/estefafdez)
 
 ## ☎️ Contact Me:
-<p align="center">
-<a href = "mailto:estefafdez@gmail.com"><img src='https://img.icons8.com/color/48/000000/gmail.png' alt='gmail' height='40'></a>
-<a href = https://github.com/estefafdez><img src='https://img.icons8.com/color/2x/github--v1.png' alt='github' height='40'></a>
-<a href = https://www.linkedin.com/in/estefafdez/><img src='https://img.icons8.com/color/2x/linkedin.png' alt='linkedin' height='40'></a>
-<p>&nbsp;</p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://estefafdez.github.io/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/estefafdez)&nbsp;
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/estefafdez)&nbsp;
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/estefafdez)&nbsp;  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/estefafdez/)&nbsp;  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/estefafdez)&nbsp;  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/2265636/estefafdez)&nbsp;  
+
 
 ## 📈 My Stats:     <a href="https://github.com/estefafdez"> <img src="https://komarev.com/ghpvc/?username=estefafdez&label=Profile+Views&color=2e8b57&style=flat" /></a>
 <p align="center">
@@ -25,3 +27,5 @@
 <a href="https://github.com/estefafdez/">
   <img width = "40%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=estefafdez&layout=compact&theme=dark" /></a>
 <p>&nbsp;</p>
+
+

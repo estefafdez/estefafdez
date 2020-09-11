@@ -8,3 +8,5 @@
 - 📫 How to reach me: On my email: estefafdez@gmail.com
 - ⚡ Visit my website: [https://estefafdez.github.io/](https://estefafdez.github.io/)
 
+[![Estefania's github stats](https://github-readme-stats.vercel.app/api?username=estefafdez)](https://github.com/estefafdez/github-readme-stats)
+

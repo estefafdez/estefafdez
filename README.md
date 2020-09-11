@@ -7,18 +7,12 @@
 - 💬 Ask me about QA and Automation Testing.
 - ⚡ Visit my website: [https://estefafdez.github.io/](https://estefafdez.github.io/)
 
-![GitHub followers](https://img.shields.io/github/followers/estefafdez?style=for-the-badge)
-![Twitter Follow](https://img.shields.io/twitter/follow/estefafdez?color=green&logo=twitter&style=for-the-badge)
-
 ## ☎️ Contact Me:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='20'>](https://estefafdez.github.io/) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/estefafdez)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/estefafdez)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='20'>](https://dev.to/estefafdez) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/estefafdez/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='20'>](https://codepen.io/estefafdez)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='20'>](https://stackoverflow.com/users/2265636/estefafdez)
-
+[![Gmail Badge](https://img.shields.io/badge/-estefafdez@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:estefafdez@gmail.com)](mailto:estefafdez@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/estefafdez/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/estefafdez//)](https://www.linkedin.com/in/https://www.linkedin.com/in/estefafdez//) [
+![Github Badge](https://img.shields.io/badge/-estefafdez-grey?style=flat&logo=github&logoColor=white&link=https://github.com/estefafdez/)](https://www.github.com/RebaiAhmed/) 
+[![Twitter Badge](https://img.shields.io/badge/-https://twitter.com/estefafdez-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/https://twitter.com/estefafdez/)](https://www.twitter.com/https://twitter.com/estefafdez/) 
+[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://estefafdez.github.io/)](https://estefafdez.github.io/) 
 
 ## 📈 My Stats:     <a href="https://github.com/estefafdez"> <img src="https://komarev.com/ghpvc/?username=estefafdez&label=Profile+Views&color=2e8b57&style=flat" /></a>
 <p align="center">

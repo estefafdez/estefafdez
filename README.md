@@ -1,6 +1,6 @@
 ## 📚 About Me:
 
-- 🔭 I’m currently working at YouCanBook.Me as a QA Automation Engineer. 
+- 🔭 I’m currently working as a QA Automation Engineer. 
 - 🌱 I’m currently learning TypeScript among other things. 
 - 👯 I’m looking to collaborate on Open Source tools such as Selenium, Appium or Cypress. 
 - 🤔 I’m looking for help with any problems with Automation Testing. 

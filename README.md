@@ -3,7 +3,7 @@
 - 🔭 I’m currently working as a QA Automation Engineer. 
 - 🌱 I’m currently learning TypeScript among other things. 
 - 👯 I’m looking to collaborate on Open Source tools such as Selenium, Appium or Cypress. 
-- 🤔 I’m looking for help with any problems with Automation Testing. 
+- 🤔 I’m looking forward to helping people with any problem with Automation Testing. 
 - 💬 Ask me about QA and Automation Testing.
 - ⚡ Visit my website: [https://estefafdez.github.io/](https://estefafdez.github.io/)
 

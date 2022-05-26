@@ -1,6 +1,6 @@
 ## 📚 About Me:
 
-- 🔭 I’m currently working as a QA Automation Engineer. 
+- 🔭 I’m currently working as a QA Engineer Manager at @genially. 
 - 🌱 I’m currently learning TypeScript among other things. Also focus on Cypress E2E tests. 
 - 👯 I’m looking to collaborate on Open Source tools such as Selenium, Appium or Cypress. 
 - 🤔 I’m looking forward to helping people with any problem with Automation Testing. 

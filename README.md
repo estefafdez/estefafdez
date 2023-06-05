@@ -5,8 +5,10 @@
 - 👯 I’m looking to collaborate on Open Source tools such as Selenium, Appium or Cypress.
 - 🤔 I’m looking forward to helping people with any problem with Automation Testing.
 - 💬 Ask me about QA and Automation Testing.
+- 🌲 Cypress Ambassador
 - ⚡ Visit my website: [https://estefafdez.github.io/](https://estefafdez.github.io/)
 - :earth_americas: Visit my blog: [https://unaqaenapuros.wordpress.com/](https://unaqaenapuros.wordpress.com/)
+- 📰 Read my posts in Medium: [https://estefafdez.medium.com/](https://estefafdez.medium.com/)
 
 ## ☎️ Contact Me:
 

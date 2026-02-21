@@ -1,6 +1,6 @@
 ## 📚 About Me:
 
-- 🔭 I’m currently working as a QA Engineer Manager at @penpot.
+- 🔭 I’m currently working as a QA Engineer Manager at [@penpot](https://github.com/penpot/penpot).
 - 🌱 I’m currently learning TypeScript among other things. Also, focus on Playwright and Cypress E2E tests.
 - 👯 I’m looking to collaborate on Open Source tools such as Selenium, Appium, Cypress or Playwright.
 - 🤔 I’m looking forward to helping people with any problem with Automation Testing.

@@ -6,7 +6,7 @@
 - 👯 I want to collaborate on open source that matters — testing tools like Selenium, Appium, Cypress and Playwright, but really any project that makes the world a little better. I believe free software should be everyone's default, not the exception — and nothing excites me more than a new challenge in service of that.
 - 🤔 I'm always happy to help — whether it's automation testing, quality processes, AI applied to testing, or getting testing off the ground, whether that's for a whole company or just your own day-to-day as a developer.
 - ⚡ Visit my website: [https://estefafdez.github.io/](https://estefafdez.github.io/)
-- :earth_americas: Visit my blog: [https://unaqaenapuros.wordpress.com/](https://unaqaenapuros.wordpress.com/)
+- 🌍 Visit my blog: [https://unaqaenapuros.wordpress.com/](https://unaqaenapuros.wordpress.com/)
 - 📰 Read my posts in Medium: [https://estefafdez.medium.com/](https://estefafdez.medium.com/)
 
 ## 🛠️ Stack:
@@ -31,9 +31,10 @@
 ## ☎️ Contact Me:
 
 [![Gmail Badge](https://img.shields.io/badge/-estefafdez@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:estefafdez@gmail.com)](mailto:estefafdez@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/estefafdez/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/estefafdez/)](https://www.linkedin.com/in/estefafdez/) [
-![Github Badge](https://img.shields.io/badge/-estefafdez-grey?style=flat&logo=github&logoColor=white&link=https://github.com/estefafdez/)](https://www.github.com/estefafdez/)
+[![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/estefafdez/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/estefafdez/)](https://www.linkedin.com/in/estefafdez/)
+[![Github Badge](https://img.shields.io/badge/-estefafdez-grey?style=flat&logo=github&logoColor=white&link=https://github.com/estefafdez/)](https://www.github.com/estefafdez/)
 [![Twitter Badge](https://img.shields.io/badge/-https://twitter.com/estefafdez-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/estefafdez/)](https://twitter.com/estefafdez/)
+[![Mastodon Badge](https://img.shields.io/badge/-@estefafdez@techhub.social-6364FF?style=flat&logo=mastodon&logoColor=white&link=https://techhub.social/@estefafdez)](https://techhub.social/@estefafdez)
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://estefafdez.github.io/)](https://estefafdez.github.io/)
 [![Book a Call Badge](https://img.shields.io/badge/-Book%20a%20Call-FF6154?style=flat&logo=googlecalendar&logoColor=white&link=https://app.timetime.in/rp/estefafdez)](https://app.timetime.in/rp/estefafdez)
 

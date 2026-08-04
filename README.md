@@ -8,6 +8,7 @@
 - ⚡ Visit my website: [https://estefafdez.github.io/](https://estefafdez.github.io/)
 - 🌍 Visit my blog: [https://unaqaenapuros.wordpress.com/](https://unaqaenapuros.wordpress.com/)
 - 📰 Read my posts in Medium: [https://estefafdez.medium.com/](https://estefafdez.medium.com/)
+- 📅 Book a call with me: [https://app.timetime.in/rp/estefafdez](https://app.timetime.in/rp/estefafdez)
 
 ## 🛠️ Stack:
 
@@ -36,6 +37,5 @@
 [![Twitter Badge](https://img.shields.io/badge/-https://twitter.com/estefafdez-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/estefafdez/)](https://twitter.com/estefafdez/)
 [![Mastodon Badge](https://img.shields.io/badge/-@estefafdez@techhub.social-6364FF?style=flat&logo=mastodon&logoColor=white&link=https://techhub.social/@estefafdez)](https://techhub.social/@estefafdez)
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://estefafdez.github.io/)](https://estefafdez.github.io/)
-[![Book a Call Badge](https://img.shields.io/badge/-Book%20a%20Call-FF6154?style=flat&logo=googlecalendar&logoColor=white&link=https://app.timetime.in/rp/estefafdez)](https://app.timetime.in/rp/estefafdez)
 
 ## 📈 My Stats: <a href="https://github.com/estefafdez"> <img src="https://komarev.com/ghpvc/?username=estefafdez&label=Profile+Views&color=2e8b57&style=flat" /></a>
